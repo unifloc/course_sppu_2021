@@ -1,0 +1,33 @@
+{
+      "1 task": {
+			"gas_fraction_standing":49.25, 
+			"q_mix_standing":98.9, 
+			"gas_viscosity_standing":0.0184,
+			"gas_density_standing":156.64,
+			"water_viscosity_standing":1.1375,
+			"water_density_standing":1020.2,
+			"oil_viscosity_standing":2.66,
+			"oil_density_standing":667.32,
+			"mixture_viscosity_standing":1.5,
+			"mixture_density_standing":786.17,
+			"gas_fraction_mccain":66.51,
+			"q_mix_mccain":100.37,
+			"gas_viscosity_mccain":0.0184,
+			"gas_density_mccain":156.64,
+			"water_viscosity_mccain":1.1375:,
+			"water_density_mccain":1020.2,
+			"oil_viscosity_mccain":1.419,
+			"oil_density_mccain":630.38,
+			"mixture_viscosity_mccain":1.085,
+			"mixture_density_mccain":782.67},
+	  },
+      "2 task": {
+            "p_wf": 212.97
+			"q_liq_vlp": "[0, 50, 100, 150, 200, 250, 300, 350, 400, 450, 500]",
+            "P_wf_vlp": "[229.9694105, 201.0146846, 213.3035359, 229.6513666, 246.640448, 263.5019108, 280.1299143, 296.4716143, 312.8825231, 329.5382143, 346.5916783]"
+      },
+      "3 task": {
+            "h_m": "[0, 137.2131579, 274.4263158, 411.6394737, 548.8526316, 686.0657895, 823.2789474, 960.4921053, 1097.705263, 1234.918421, 1372.131579, 1509.344737, 1646.557895, 1783.771053, 1920.984211, 2058.197368, 2195.410526, 2332.623684, 2469.836842, 2607.05]",
+            "P_wf": "[4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]"
+      }
+}
